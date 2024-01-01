@@ -16,7 +16,7 @@ python-engineio         ==4.0.1       # MIT
 python-socketio         ==5.1.0       # MIT
 
 # Dependencies needed for converting Pytorch models to tensorflow Lite
-tensorflow              ==2.3.1      # Apache 2.0
+tensorflow              ==2.11.1      # Apache 2.0
 Keras                   ==2.4.3      # Apache 2.0
 
 # unit tests
